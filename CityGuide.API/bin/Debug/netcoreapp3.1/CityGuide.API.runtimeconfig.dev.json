@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tolun\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tolun\\.nuget\\packages"
+    ]
+  }
+}
